@@ -1,3 +1,21 @@
+body{
+    background-color:darkcyan;
+    color:whitesmoke;
+}
 .fsf {
  width:500px;
+ border-width: 10px;
+ border-radius:10%;
+ border:200px;
+ border-color:goldenrod;
+
+}
+.card:hover {
+    background-color:black;
+}
+.fam {
+    border-width: 10px;
+    border-radius:5%;
+    border:10px;
+    border-color:goldenrod;
 }
